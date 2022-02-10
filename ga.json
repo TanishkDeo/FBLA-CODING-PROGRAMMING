@@ -344,15 +344,63 @@
   },
 
   {
-    "name": "Okefenokee National Wildlife Refuge",
-    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
-    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
-    "city": "Folkston",
+    "name": "Providence Canyon State Park",
+    "desc": "Providence Canyon State Park in southwest Georgia is named after the “Little Grand Canyon” Providence Canyon right in the middle of it. The Canyon is a must-see because of its fascinating story – it’s not natural.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Providence-Canyon-State-Park.jpg",
+    "city": "Lumpkin",
     "restuarant": false,
     "shopping": false,
     "museum/attraction": false,
     "cost": "Free",
     "nature": true
+  },
+
+  {
+    "name": "Tybee Island Light Station and Museum",
+    "desc": "Tybee Island is one of Georgia’s barrier islands, and it houses the Tybee Island Light Station and Museum.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Tybee-Island-Light-Station-and-Museum.jpg.webp",
+    "city": "Tybee Island",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "$",
+    "nature": true
+  },
+
+  {
+    "name": "Georgia Guidestones",
+    "desc": "The Georgia Guidestones were built by the Elberton Granite Finishing Company, commissioned by R. C. Christian, who had lots of money and a demand that no one reveal the identity of him or the group he worked with.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Georgia-Guidestones.jpg",
+    "city": "Elberton",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "Free",
+    "nature": false
+  },
+
+  {
+    "name": "Brasstown Balde",
+    "desc": "If you’re looking for fun things to do in Georgia, Brasstown Bald is a good option and one you should have on your travel guide. It’s Georgia’s highest point, reaching a whopping 4,784 feet above sea level at its top.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Brasstown-Bald.jpg",
+    "city": "Blairsville",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Oakland Cemetery",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Oakland-Cemetery.jpg",
+    "city": "Atlanta",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "Free",
+    "nature": false
   },
 
   {
@@ -368,10 +416,10 @@
   },
 
   {
-    "name": "Okefenokee National Wildlife Refuge",
-    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
-    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
-    "city": "Folkston",
+    "name": "Appalachian Trail",
+    "desc": "The Appalachian Trail stretches from Georgia to Maine. If you were to hike it completely, it would take you up to 7 months to complete your journey.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Appalachian-Trail.jpg",
+    "city": "Hiawassee",
     "restuarant": false,
     "shopping": false,
     "museum/attraction": false,
@@ -380,63 +428,15 @@
   },
 
   {
-    "name": "Okefenokee National Wildlife Refuge",
-    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
-    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
-    "city": "Folkston",
+    "name": "BAPS Shri Swaminarayan Mandir",
+    "desc": "The BAPS Shri Swaminarayan Mandir is one of a kind when it comes to tourist attractions in the state of Georgia. It’s an intricate, grand Hindu temple and is actually the largest of its kind constructed out of India!",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/BAPS-Shri-Swaminarayan-Mandir.jpg",
+    "city": "Lilburn",
     "restuarant": false,
     "shopping": false,
-    "museum/attraction": false,
+    "museum/attraction": true,
     "cost": "Free",
-    "nature": true
-  },
-
-  {
-    "name": "Okefenokee National Wildlife Refuge",
-    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
-    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
-    "city": "Folkston",
-    "restuarant": false,
-    "shopping": false,
-    "museum/attraction": false,
-    "cost": "Free",
-    "nature": true
-  },
-
-  {
-    "name": "Okefenokee National Wildlife Refuge",
-    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
-    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
-    "city": "Folkston",
-    "restuarant": false,
-    "shopping": false,
-    "museum/attraction": false,
-    "cost": "Free",
-    "nature": true
-  },
-
-  {
-    "name": "Okefenokee National Wildlife Refuge",
-    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
-    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
-    "city": "Folkston",
-    "restuarant": false,
-    "shopping": false,
-    "museum/attraction": false,
-    "cost": "Free",
-    "nature": true
-  },
-
-  {
-    "name": "Okefenokee National Wildlife Refuge",
-    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
-    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
-    "city": "Folkston",
-    "restuarant": false,
-    "shopping": false,
-    "museum/attraction": false,
-    "cost": "Free",
-    "nature": true
+    "nature": false
   },
 
   {
