@@ -1,0 +1,610 @@
+[
+  {
+    "name": "Savannah Historic District",
+    "city": "Savannah",
+    "desc": "The Savannah Historic District isn’t just known in Georgia. It’s also the United States’ biggest urban historic district, maintaining relatively accurate dimensions to the original city of Savannah as it was in the times of the Civil War. Over 20 city squares packed with tourist attractions in the form of park spaces, historical structures, and fun visitor draws make for a great time",
+    "img":"https://www.busytourist.com/wp-content/uploads/2020/09/Savannah-Historic-District.jpg",
+    "restuarant": true,
+    "shopping": true,
+    "museum/attraction": true,
+    "cost": "Free",
+    "nature": false
+  },
+  {
+    "name": "Georgia Aquarium",
+    "desc": "The biggest aquarium in the Western Hemisphere would naturally be one of the best things to do in Georgia – and it’s also the world’s second-largest. That’s why the Georgia Aquarium makes for a fun trip for the whole family that you won’t be able to replicate elsewhere. It boasts exhibits that require a total of ten million gallons of water! The aquarium was opened in 2005 and offers a glimpse into the daily lives of many different kinds of marine animals, ranging from bottlenose dolphins to whale sharks and from beluga whales to sea otters.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Georgia-Aquarium.jpg",
+    "city": "Atlanta",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "$$",
+    "nature": true
+  },
+  {
+    "name": "National Center for Civil and Human Rights",
+    "desc": "The National Center for Civil and Human Rights is one of the places to see if you’re looking for a powerful and impactful trip in Georgia. As its name suggests, it is a dedication to the worldwide battle for equal human rights as well as America’s own civil rights movement. Dynamic exhibits deliver this important message in a strong, tactful, and interesting manner. At the Civil Rights Movement gallery, you’ll learn more about the 1950s and 1960s’ struggle for civil equality, with audio and visual that bring this era to life.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/National-Center-for-Civil-and-Human-Rights.jpg",
+    "city": "Atlanta",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "$",
+    "nature": false
+  },
+  
+  {
+    "name": "Chattahoochee-Oconee National Forest,
+    "desc": "The Chattahoochee-Oconee National Forest is a huge 750,000-acre expanse of some of the top panoramas of natural green in Georgia. It’s a much-loved place for tourists, especially in the summer, and its delightful rush of trees and other fauna makes it both relaxing and exciting. There is no shortage of options for what to do in the Chattahoochee-Oconee National Forest.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Chattahoochee-Oconee-National-Forest.jpg",
+    "city": "Suches",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+  
+  {
+    "name": "Pin Point Heritage Museum",
+    "desc": "When the Civil War ended, a small group of former slaves, now free, set up a home for themselves in Georgia, divided into thin property roads. This eventually gave the location its name: Pin Point. The vibrant people who founded the community were descendants of West African slaves, bringing traditions and customs along with them to this bright little neighborhood.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Pin-Point-Heritage-Museum.jpg",
+    "city": "Savannah",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "$",
+    "nature": false
+  },
+  
+  {
+    "name": "Cumberland Island",
+    "desc": "Cumberland Island is Georgia’s biggest barrier island that stands uninhabited, making it one of the most interesting places to go. It’s relatively small, measuring 17.5 miles in length and encompassing about 36,415 acres, though almost 17,000 of those acres are tidal creeks, mudflats, and marshes. The moment you step onto your ferry at St. Mary’s, your adventure has already started.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Cumberland-Island.jpg"
+    "city": "Cumberland Island",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+  
+  {
+    "name": "Jimmy Carter National Historic Site",
+    "desc": "The Jimmy Carter National Historic Site is located in southwest Georgia in an area called Plains. It’s an homage to President Jimmy Carter himself, consisting of the Carter family home, the childhood home of President Carter, and the farm his family had in his boyhood.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Jimmy-Carter-National-Historic-Site.jpg",
+    "city": "Plains",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "Free",
+    "nature": false
+  },
+  
+  {
+    "name": "Callaway Gardens,
+    "desc": "Callaway Gardens is a resort that sits in Georgia’s Pine Mountains. Its grounds encompass 14,000 acres of foothills of the Appalachian, with the resort itself located within 2,500 acres of lush greenery from woodlands, forests, and lakes.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Callaway-Gardens.jpg",
+    "city": "Pine Mountain",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "$$$",
+    "nature": true
+  },
+  
+  {
+    "name": "David J. Sencer CDC Museum",
+    "desc": "The David J. Sencer CDC Museum was established as a part of celebrations for the 50th anniversary of the CDC. It hosts a wide range of interesting and surprisingly detailed displays and multimedia that discuss public health management in a fun way.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/David-J.-Sencer-CDC-Museum.jpg",
+    "city": "Atlanta",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "Free",
+    "nature": false
+  },
+  
+  {
+    "name": "Tallulah Gorge State Park",
+    "desc": "The Tallulah Gorge State Park is one of the most scenic places in Georgia. It spans 2,689 acres of land around the two-mile-long, thousand-feet deep Tallulah Gorge, created by the Tallulah River’s flow over thousands of years.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Tallulah-Gorge-State-Park.jpg",
+    "city": "Tallulah Falls",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+  
+  {
+    "name": "Andersonville National Historic Site",
+    "desc": "The Andersonville National Historic Site is south of Atlanta, Georgia, and as far as vacation spots go, it’s among the most educational. It’s a spot designed to teach you about the Civil War era and the American South at the time. Be warned, though – its sights are meant to be brutally honest about the horrors, suffering, and haunting endeavors endured by those affected most by the conflict.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Andersonville-National-Historic-Site.jpg",
+    "city": "Andersonvile",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "Free",
+    "nature": false
+  },
+  
+  {
+    "name": "High Museum of Art",
+    "desc": "The High Museum of Art boasts a proud title of being one of southeastern America’s most important and influential museums, so it’s something you simply must visit when you’re in Georgia! Over 15,000 different works call this place their home, and the collection is divided into seven themes of focus: American art, African art, European art, folk and self-taught art, decorative art and design, photography, and modern and contemporary art.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/High-Museum-of-Art.jpg",
+    "city": "Atlanta",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "$$",
+    "nature": false
+  },
+  
+  {
+    "name": "Arabia Mountain",
+    "desc": "Arabia Mountain is one of the most spectacular and one-of-a-kind things to see in the state of Georgia. It is a granite monadnock dating back to ancient times, meaning it is an exposed, isolated, completed exposed rock. It rises 954 feet from sea level, and a hike to the peak of the crater-dotted monolith rewards you with gorgeous panoramic views of the surrounding landscape.",
+    "img": "hhttps://www.busytourist.com/wp-content/uploads/2020/09/Arabia-Mountain.jpg",
+    "city": "Stonecrest",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "$",
+    "nature": true
+  },
+  
+  {
+    "name": "Martin Luther King Jr. National Historic Site",
+    "desc": "Martin Luther King Jr. was born in Atlanta, Georgia – so it makes sense that the Martin Luther King Jr. National Historic Site is in that same city! In fact, the site includes Reverend King’s childhood home and the building of the church where he was a pastor, Ebenezer Baptist Church. Other historic structures are peppered throughout.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Martin-Luther-King-Jr.-National-Historic-Site.jpg",
+    "city": "Atlanta",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "Free",
+    "nature": false
+  },
+  
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+  
+  {
+    "name": "Roosevelt’s Little White House",
+    "desc": "President Roosevelt likely never realized that this home would eventually become one of the local places of interest. At the Little White House, it’s one of the best ways to learn more about the late President’s life.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Roosevelt%E2%80%99s-Little-White-House.jpg",
+    "city": "Warm Springs",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "$",
+    "nature": false
+  },
+
+  
+  {
+    "name": "Etowah Indian Mounds,
+    "desc": "The Etowah Indian Mounds were constructed over a long period of time, beginning more than a thousand years ago. They consist of six plateaus, creating an unintended deposit of historical treasures in the sediment, ranging from artifacts to cultural information on traditional activities.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Etowah-Indian-Mounds.jpg",
+    "city": "Cartersvile",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "Free",
+    "nature": false
+  },
+
+  
+  {
+    "name": "Jekyll Island",
+    "desc": "Jekyll Island is a hotspot for site seeing, golfing, camping, hiking, and beaches.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Jekyll-Island.jpg",
+    "city": "Jekyll Island",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  
+  {
+    "name": "Museum of Aviation",
+    "desc": "The Museum of Aviation is one of the best tourist spots for aircraft enthusiasts and machinery buffs alike. Four hangers are spotted throughout this museum in Robins Air Force Base, Georgia, and the collection is still expanding regularly!",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Museum-of-Aviation.jpg",
+    "city": "Robins",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "Free",
+    "nature": false
+  },
+
+  
+  {
+    "name": "Panther Creek Falls",
+    "desc": "There is little double that Panther Creek Falls is one of the most beautiful places in Georgia. Located in the southern region of the Smoky Mountains within Gifford Pinchot National Forest on the Cohutta Mountains of Georgia, this waterfall is a hidden gem for sightseeing, relaxation, hiking, and exploration.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Panther-Creek-Falls.jpg",
+    "city": "Turnervile",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  
+  {
+    "name": "College Football Hall of Fame",
+    "desc": "The College Football Hall of Fame in Atlanta, Georgia is among the few tourist attractions that cater specifically to fans of this sport. It’s a great place for the whole family, even with its own play zone for kids.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/College-Football-Hall-of-Fame.jpg",
+    "city": "Atlanta",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "$",
+    "nature": false
+  },
+
+  
+  {
+    "name": "Doll’s Head Trail",
+    "desc": "Doll’s Head Trail is a short hiking path that cuts through Georgia’s Constitution Lakes Park, which is an urban nature preserve located in the area of a former brick factory.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Dolls-Head-Trail.jpg",
+    "city": "Atlanta",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  
+  {
+    "name": "Ocmulgee National Monument",
+    "desc": "The Ocmulgee National Monument in Macon, Georgia is North America’s only known spiral mound. Rising 20 feet into the air, it was built by natives who used it 12,000 years ago.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Macon",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": true,
+    "cost": "Free",
+    "nature": true
+  },
+
+  
+  {
+    "name": "Miller Union",
+    "desc": "At Miller Union, Georgia native Steven Satterfield gathers every misguided notion about Southern food and tosses them in the compost heap. What’s left: dishes that are understated revelries (that silky farm egg in lush celery cream, oh my) and honest explorations of the modern South (see: Seasonal Vegetable Plate). That they’re served in the most unpretentious high-end restaurant in Atlanta—equally suitable for the laziest of lunches or the most special occasion—makes the fried pork chop with creamed greens and the duck breast with hoecakes and strawberry even more exceptional.",
+    "img": "https://cdn2.atlantamagazine.com/wp-content/uploads/sites/4/2019/05/0619_75BestRestaurantsMillerUnionLORES2_AndrewThomasLee_oneuseonly.jpg",
+    "city": "Atlanta",
+    "restuarant": true,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "$$$",
+    "nature": false
+  },
+
+  {
+    "name": "Staplehouse",
+    "desc": "Ever since it opened, Staplehouse has been Exhibit A in the argument that Atlanta is finally ready for the kind of cutting-edge restaurants that flourish in other cities: ambitious, purposeful, personality-driven food served in irreverently casual dining rooms instead of on white tablecloths.",
+    "img": "https://cdn2.atlantamagazine.com/wp-content/uploads/sites/4/2019/05/0619_75BestRestaurantsStaplehouseLORES2_AndrewThomasLee_oneuseonly.jpg",
+    "city": "Atlanta",
+    "restuarant": true,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "$$$",
+    "nature": false
+  },
+
+  
+  {
+    "name": "Masterpiece",
+    "desc": "The average human tongue has 10,000 tastebuds, and we have discovered a way to stimulate each and every one of them with just two bites of food. The first bite: Masterpiece’s dry-fried eggplant (Eggplant with Chilli Powder and Pepper Ash Powder), which sits at the pinnacle of every iteration we’ve encountered of the beloved Sichuan dish.",
+    "img": "https://cdn2.atlantamagazine.com/wp-content/uploads/sites/4/2019/05/0619_75BestRestaurantsMasterpieceLORES2_AndrewThomasLee_oneuseonly.jpg",
+    "city": "Atlanta",
+    "restuarant": true,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "$$$",
+    "nature": false
+  },
+
+  
+  {
+    "name": "Mall of Georgia",
+    "desc": "At Mall of Georgia(R), we know what our shoppers want. Featuring Nordstrom, Belk, Dillard's, jcpenney and Macy's, plus more than 225 local, national and international stores offering everything from women's and children's apparel to jewelry and home electronics.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Buford",
+    "restuarant": true,
+    "shopping": true,
+    "museum/attraction": false,
+    "cost": "$$",
+    "nature": false
+  },
+
+  {
+    "name": "Ponce City Market",
+    "desc": "Located at the nexus of Atlanta’s most established neighborhoods, Ponce City Market is the latest incarnation of a long legacy of community-centered built environments along this iconic stretch of Ponce de Leon Avenue. ",
+    "img": "https://localadventurer.com/wp-content/uploads/2018/09/ponce-market-atlanta.jpg",
+    "city": "Atlanta",
+    "restuarant": true,
+    "shopping": true,
+    "museum/attraction": false,
+    "cost": "$$",
+    "nature": false
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restuarant": false,
+    "shopping": false,
+    "museum/attraction": false,
+    "cost": "Free",
+    "nature": true
+  },
+
+  
