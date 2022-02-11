@@ -1,0 +1,622 @@
+[
+  {
+    "name": "Savannah Historic District",
+    "city": "Savannah",
+    "desc": "The Savannah Historic District isn’t just known in Georgia. It’s also the United States’ biggest urban historic district, maintaining relatively accurate dimensions to the original city of Savannah as it was in the times of the Civil War. Over 20 city squares packed with tourist attractions in the form of park spaces, historical structures, and fun visitor draws make for a great time",
+    "img":"https://www.busytourist.com/wp-content/uploads/2020/09/Savannah-Historic-District.jpg",
+    "restaurant": "Yes",
+    "shopping": "Yes",
+    "museum": "Yes",
+    "cost": "Free",
+    "nature": "No"
+  },
+  {
+    "name": "Georgia Aquarium",
+    "desc": "The biggest aquarium in the Western Hemisphere would naturally be one of the best things to do in Georgia – and it’s also the world’s second-largest. That’s why the Georgia Aquarium makes for a fun trip for the whole family that you won’t be able to replicate elsewhere. It boasts exhibits that require a total of ten million gallons of water! The aquarium was opened in 2005 and offers a glimpse into the daily lives of many different kinds of marine animals, ranging from bottlenose dolphins to whale sharks and from beluga whales to sea otters.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Georgia-Aquarium.jpg",
+    "city": "Atlanta",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "$$",
+    "nature": "Yes"
+  },
+  {
+    "name": "National Center for Civil and Human Rights",
+    "desc": "The National Center for Civil and Human Rights is one of the places to see if you’re looking for a powerful and impactful trip in Georgia. As its name suggests, it is a dedication to the worldwide battle for equal human rights as well as America’s own civil rights movement. Dynamic exhibits deliver this important message in a strong, tactful, and interesting manner. At the Civil Rights Movement gallery, you’ll learn more about the 1950s and 1960s’ struggle for civil equality, with audio and visual that bring this era to life.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/National-Center-for-Civil-and-Human-Rights.jpg",
+    "city": "Atlanta",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "$",
+    "nature": "No"
+  },
+  
+  {
+    "name": "Chattahoochee-Oconee National Forest",
+    "desc": "The Chattahoochee-Oconee National Forest is a huge 750,000-acre expanse of some of the top panoramas of natural green in Georgia. It’s a much-loved place for tourists, especially in the summer, and its delightful rush of trees and other fauna makes it both relaxing and exciting. There is no shortage of options for what to do in the Chattahoochee-Oconee National Forest.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Chattahoochee-Oconee-National-Forest.jpg",
+    "city": "Suches",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+  
+  {
+    "name": "Pin Point Heritage Museum",
+    "desc": "When the Civil War ended, a small group of former slaves, now free, set up a home for themselves in Georgia, divided into thin property roads. This eventually gave the location its name: Pin Point. The vibrant people who founded the community were descendants of West African slaves, bringing traditions and customs along with them to this bright little neighborhood.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Pin-Point-Heritage-Museum.jpg",
+    "city": "Savannah",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "$",
+    "nature": "No"
+  },
+  
+  {
+    "name": "Cumberland Island",
+    "desc": "Cumberland Island is Georgia’s biggest barrier island that stands uninhabited, making it one of the most interesting places to go. It’s relatively small, measuring 17.5 miles in length and encompassing about 36,415 acres, though almost 17,000 of those acres are tidal creeks, mudflats, and marshes. The moment you step onto your ferry at St. Mary’s, your adventure has already started.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Cumberland-Island.jpg",
+    "city": "Cumberland Island",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+  
+  {
+    "name": "Jimmy Carter National Historic Site",
+    "desc": "The Jimmy Carter National Historic Site is located in southwest Georgia in an area called Plains. It’s an homage to President Jimmy Carter himself, consisting of the Carter family home, the childhood home of President Carter, and the farm his family had in his boyhood.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Jimmy-Carter-National-Historic-Site.jpg",
+    "city": "Plains",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "Free",
+    "nature": "No"
+  },
+  
+  {
+    "name": "Callaway Gardens",
+    "desc": "Callaway Gardens is a resort that sits in Georgia’s Pine Mountains. Its grounds encompass 14,000 acres of foothills of the Appalachian, with the resort itself located within 2,500 acres of lush greenery from woodlands, forests, and lakes.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Callaway-Gardens.jpg",
+    "city": "Pine Mountain",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "$$$",
+    "nature": "Yes"
+  },
+  
+  {
+    "name": "David J. Sencer CDC Museum",
+    "desc": "The David J. Sencer CDC Museum was established as a part of celebrations for the 50th anniversary of the CDC. It hosts a wide range of interesting and surprisingly detailed displays and multimedia that discuss public health management in a fun way.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/David-J.-Sencer-CDC-Museum.jpg",
+    "city": "Atlanta",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "Free",
+    "nature": "No"
+  },
+  
+  {
+    "name": "Tallulah Gorge State Park",
+    "desc": "The Tallulah Gorge State Park is one of the most scenic places in Georgia. It spans 2,689 acres of land around the two-mile-long, thousand-feet deep Tallulah Gorge, created by the Tallulah River’s flow over thousands of years.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Tallulah-Gorge-State-Park.jpg",
+    "city": "Tallulah Falls",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+  
+  {
+    "name": "Andersonville National Historic Site",
+    "desc": "The Andersonville National Historic Site is south of Atlanta, Georgia, and as far as vacation spots go, it’s among the most educational. It’s a spot designed to teach you about the Civil War era and the American South at the time. Be warned, though – its sights are meant to be brutally honest about the horrors, suffering, and haunting endeavors endured by those affected most by the conflict.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Andersonville-National-Historic-Site.jpg",
+    "city": "Andersonvile",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "Free",
+    "nature": "No"
+  },
+  
+  {
+    "name": "High Museum of Art",
+    "desc": "The High Museum of Art boasts a proud title of being one of southeastern America’s most important and influential museums, so it’s something you simply must visit when you’re in Georgia! Over 15,000 different works call this place their home, and the collection is divided into seven themes of focus: American art, African art, European art, folk and self-taught art, decorative art and design, photography, and modern and contemporary art.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/High-Museum-of-Art.jpg",
+    "city": "Atlanta",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "$$",
+    "nature": "No"
+  },
+  
+  {
+    "name": "Arabia Mountain",
+    "desc": "Arabia Mountain is one of the most spectacular and one-of-a-kind things to see in the state of Georgia. It is a granite monadnock dating back to ancient times, meaning it is an exposed, isolated, completed exposed rock. It rises 954 feet from sea level, and a hike to the peak of the crater-dotted monolith rewards you with gorgeous panoramic views of the surrounding landscape.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Arabia-Mountain.jpg",
+    "city": "Stonecrest",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "$",
+    "nature": "Yes"
+  },
+  
+  {
+    "name": "Martin Luther King Jr. National Historic Site",
+    "desc": "Martin Luther King Jr. was born in Atlanta, Georgia – so it makes sense that the Martin Luther King Jr. National Historic Site is in that same city! In fact, the site includes Reverend King’s childhood home and the building of the church where he was a pastor, Ebenezer Baptist Church. Other historic structures are peppered throughout.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Martin-Luther-King-Jr.-National-Historic-Site.jpg",
+    "city": "Atlanta",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "Free",
+    "nature": "No"
+  },
+  
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+  
+  {
+    "name": "Roosevelt’s Little White House",
+    "desc": "President Roosevelt likely never realized that this home would eventually become one of the local places of interest. At the Little White House, it’s one of the best ways to learn more about the late President’s life.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Roosevelt%E2%80%99s-Little-White-House.jpg",
+    "city": "Warm Springs",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "$",
+    "nature": "No"
+  },
+
+  
+  {
+    "name": "Etowah Indian Mounds",
+    "desc": "The Etowah Indian Mounds were constructed over a long period of time, beginning more than a thousand years ago. They consist of six plateaus, creating an unintended deposit of historical treasures in the sediment, ranging from artifacts to cultural information on traditional activities.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Etowah-Indian-Mounds.jpg",
+    "city": "Cartersvile",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "Free",
+    "nature": "No"
+  },
+
+  
+  {
+    "name": "Jekyll Island",
+    "desc": "Jekyll Island is a hotspot for site seeing, golfing, camping, hiking, and beaches.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Jekyll-Island.jpg",
+    "city": "Jekyll Island",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+
+  
+  {
+    "name": "Museum of Aviation",
+    "desc": "The Museum of Aviation is one of the best tourist spots for aircraft enthusiasts and machinery buffs alike. Four hangers are spotted throughout this museum in Robins Air Force Base, Georgia, and the collection is still expanding regularly!",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Museum-of-Aviation.jpg",
+    "city": "Robins",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "Free",
+    "nature": "No"
+  },
+
+  
+  {
+    "name": "Panther Creek Falls",
+    "desc": "There is little double that Panther Creek Falls is one of the most beautiful places in Georgia. Located in the southern region of the Smoky Mountains within Gifford Pinchot National Forest on the Cohutta Mountains of Georgia, this waterfall is a hidden gem for sightseeing, relaxation, hiking, and exploration.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Panther-Creek-Falls.jpg",
+    "city": "Turnervile",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+
+  
+  {
+    "name": "College Football Hall of Fame",
+    "desc": "The College Football Hall of Fame in Atlanta, Georgia is among the few tourist attractions that cater specifically to fans of this sport. It’s a great place for the whole family, even with its own play zone for kids.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/College-Football-Hall-of-Fame.jpg",
+    "city": "Atlanta",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "$",
+    "nature": "No"
+  },
+
+  
+  {
+    "name": "Doll’s Head Trail",
+    "desc": "Doll’s Head Trail is a short hiking path that cuts through Georgia’s Constitution Lakes Park, which is an urban nature preserve located in the area of a former brick factory.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Dolls-Head-Trail.jpg",
+    "city": "Atlanta",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+
+  
+  {
+    "name": "Ocmulgee National Monument",
+    "desc": "The Ocmulgee National Monument in Macon, Georgia is North America’s only known spiral mound. Rising 20 feet into the air, it was built by natives who used it 12,000 years ago.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Macon",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+
+  
+  {
+    "name": "Miller Union",
+    "desc": "At Miller Union, Georgia native Steven Satterfield gathers every misguided notion about Southern food and tosses them in the compost heap. What’s left: dishes that are understated revelries (that silky farm egg in lush celery cream, oh my) and honest explorations of the modern South (see: Seasonal Vegetable Plate). That they’re served in the most unpretentious high-end restaurant in Atlanta—equally suitable for the laziest of lunches or the most special occasion—makes the fried pork chop with creamed greens and the duck breast with hoecakes and strawberry even more exceptional.",
+    "img": "https://cdn2.atlantamagazine.com/wp-content/uploads/sites/4/2019/05/0619_75BestRestaurantsMillerUnionLORES2_AndrewThomasLee_oneuseonly.jpg",
+    "city": "Atlanta",
+    "restaurant": "Yes",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "$$$",
+    "nature": "No"
+  },
+
+  {
+    "name": "Staplehouse",
+    "desc": "Ever since it opened, Staplehouse has been Exhibit A in the argument that Atlanta is finally ready for the kind of cutting-edge restaurants that flourish in other cities: ambitious, purposeful, personality-driven food served in irreverently casual dining rooms instead of on white tablecloths.",
+    "img": "https://cdn2.atlantamagazine.com/wp-content/uploads/sites/4/2019/05/0619_75BestRestaurantsStaplehouseLORES2_AndrewThomasLee_oneuseonly.jpg",
+    "city": "Atlanta",
+    "restaurant": "Yes",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "$$$",
+    "nature": "No"
+  },
+
+  
+  {
+    "name": "Masterpiece",
+    "desc": "The average human tongue has 10,000 tastebuds, and we have discovered a way to stimulate each and every one of them with just two bites of food. The first bite: Masterpiece’s dry-fried eggplant (Eggplant with Chilli Powder and Pepper Ash Powder), which sits at the pinnacle of every iteration we’ve encountered of the beloved Sichuan dish.",
+    "img": "https://cdn2.atlantamagazine.com/wp-content/uploads/sites/4/2019/05/0619_75BestRestaurantsMasterpieceLORES2_AndrewThomasLee_oneuseonly.jpg",
+    "city": "Atlanta",
+    "restaurant": "Yes",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "$$$",
+    "nature": "No"
+  },
+
+  
+  {
+    "name": "Mall of Georgia",
+    "desc": "At Mall of Georgia(R), we know what our shoppers want. Featuring Nordstrom, Belk, Dillard's, jcpenney and Macy's, plus more than 225 local, national and international stores offering everything from women's and children's apparel to jewelry and home electronics.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Buford",
+    "restaurant": "Yes",
+    "shopping": "Yes",
+    "museum": "No",
+    "cost": "$$",
+    "nature": "No"
+  },
+
+  {
+    "name": "Ponce City Market",
+    "desc": "Located at the nexus of Atlanta’s most established neighborhoods, Ponce City Market is the latest incarnation of a long legacy of community-centered built environments along this iconic stretch of Ponce de Leon Avenue. ",
+    "img": "https://localadventurer.com/wp-content/uploads/2018/09/ponce-market-atlanta.jpg",
+    "city": "Atlanta",
+    "restaurant": "Yes",
+    "shopping": "Yes",
+    "museum": "No",
+    "cost": "$$",
+    "nature": "No"
+  },
+
+  {
+    "name": "Providence Canyon State Park",
+    "desc": "Providence Canyon State Park in southwest Georgia is named after the “Little Grand Canyon” Providence Canyon right in the middle of it. The Canyon is a must-see because of its fascinating story – it’s not natural.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Providence-Canyon-State-Park.jpg",
+    "city": "Lumpkin",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+
+  {
+    "name": "Tybee Island Light Station and Museum",
+    "desc": "Tybee Island is one of Georgia’s barrier islands, and it houses the Tybee Island Light Station and Museum.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Tybee-Island-Light-Station-and-Museum.jpg.webp",
+    "city": "Tybee Island",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "$",
+    "nature": "Yes"
+  },
+
+  {
+    "name": "Georgia Guidestones",
+    "desc": "The Georgia Guidestones were built by the Elberton Granite Finishing Company, commissioned by R. C. Christian, who had lots of money and a demand that no one reveal the identity of him or the group he worked with.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Georgia-Guidestones.jpg",
+    "city": "Elberton",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "Free",
+    "nature": "No"
+  },
+
+  {
+    "name": "Brasstown Balde",
+    "desc": "If you’re looking for fun things to do in Georgia, Brasstown Bald is a good option and one you should have on your travel guide. It’s Georgia’s highest point, reaching a whopping 4,784 feet above sea level at its top.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Brasstown-Bald.jpg",
+    "city": "Blairsville",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+
+  {
+    "name": "Oakland Cemetery",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Oakland-Cemetery.jpg",
+    "city": "Atlanta",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "Free",
+    "nature": "No"
+  },
+
+  {
+    "name": "Okefenokee National Wildlife Refuge",
+    "desc": "The Okefenokee National Wildlife Refuge spans 401,880 acres. It was first set up in 1937 and has since become one of the more popular points of interest in the state of Georgia. It is nothing short of beautiful, functioning as a migration refuge for wildlife, a safe breeding ground, and a habitat for threatened or endangered species.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Okefenokee-National-Wildlife-Refuge.jpg",
+    "city": "Folkston",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+
+  {
+    "name": "Appalachian Trail",
+    "desc": "The Appalachian Trail stretches from Georgia to Maine. If you were to hike it completely, it would take you up to 7 months to complete your journey.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Appalachian-Trail.jpg",
+    "city": "Hiawassee",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+
+  {
+    "name": "BAPS Shri Swaminarayan Mandir",
+    "desc": "The BAPS Shri Swaminarayan Mandir is one of a kind when it comes to tourist attractions in the state of Georgia. It’s an intricate, grand Hindu temple and is actually the largest of its kind constructed out of India!",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/BAPS-Shri-Swaminarayan-Mandir.jpg",
+    "city": "Lilburn",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "Free",
+    "nature": "No"
+  },
+
+  {
+    "name": "Center for Puppetry Arts",
+    "desc": "Looking for the most fun things to do in Georgia? The Center for Puppetry Arts is an amazing option in Atlanta! It’s the home of the world’s biggest collection and exhibition of artifacts relating to the late, great Jim Henson himself.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Center-for-Puppetry-Arts.jpg",
+    "city": "Atlanta",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "$",
+    "nature": "No"
+  },
+
+  {
+    "name": "Rock City",
+    "desc": "Rock City can be found in Northern Georgia, right on Lookout Mountain. It’s one of the state’s many things to see. It began as an all-natural wonder and was, over time, slowly turned into a fine example of American kitsch.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Rock-City.jpg",
+    "city": "Lookout Mountain",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "$",
+    "nature": "Yes"
+  },
+
+  {
+    "name": "Centennial Olympic Park",
+    "desc": "Centennial Olympic Park is the tourist attraction of Atlanta. Built for the 1996 Olympic Games, it’s a sprawling urban space that’s surrounded on all sides by shops, restaurants, malls, museums, amusement parks and everything else that visitors could want for an exciting and fun-filled vacation.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/07/Centennial-Olympic-Park.jpg",
+    "city": "Atlanta",
+    "restaurant": "Yes",
+    "shopping": "Yes",
+    "museum": "Yes",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+
+  {
+    "name": "Atlanta Botanical Garden",
+    "desc": "Brimming with roses, orchids, camellias, azaleas and magnolias, the Atlanta Botanical Garden might just be one of the most beautiful places in the US. Not only does it have a stunning collection of flowers, but it’s also home to things like edible gardens and canopy walks in the treetops!",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/07/Atlanta-Botanical-Garden.jpg",
+    "city": "Atlanta",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "$",
+    "nature": "Yes"
+  },
+
+  {
+    "name": "World of Coca-Cola",
+    "desc": "The World of Coca-Cola is a tribute to the fun, fizzy drink, and it’s currently one of the largest tourist attractions in Georgia.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/07/World-of-Coca-Cola.jpg",
+    "city": "Atlanta",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "$$",
+    "nature": "Yes"
+  },
+
+  {
+    "name": "Piedmont Park",
+    "desc": "It’s a beautiful park located just outside of the gleaming skyscrapers and shopping malls of the greater Atlanta area, and it offers fun stuff to do for visitors of all types.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/07/Piedmont-Park.jpg",
+    "city": "Atlanta",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+
+  {
+    "name": "Zoo Atlanta",
+    "desc": "Zoo Atlanta is one of the coolest zoos that you’ll ever visit. Not only is it home to hundreds of different species, but it also offers educational entertainment in the form of shows, demonstrations, animal feedings, summer camps, yoga classes and more.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/07/Zoo-Atlanta.jpg",
+    "city": "Atlanta",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "$$",
+    "nature": "Yes"
+  },
+
+  {
+    "name": "Stone Mountain",
+    "desc": "Stone Mountain makes for one of the best of the Georgia destinations because of the many things that it is. It’s packed with beautiful areas for picnics, a location for laser light shows, and of course, a lakeside mountain and park perfect for hiking, viewing rare plants, and more.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/Stone-Mountain.jpg",
+    "city": "Stone Mountain",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+
+  {
+    "name": "CNN Center",
+    "desc": "Few haven’t heard of CNN, a news-based media company founded in 1980. The fact that its headquarters are in Georgia in the CNN Center means that it’s a visit not to miss while you’re in the state!",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/CNN-Center.jpg",
+    "city": "Atlanta",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "$$",
+    "nature": "No"
+  },
+
+  {
+    "name": "National Infantry Museum & Soldier Center",
+    "desc": "The National Infantry Museum & Soldier Center is located suitably outside of Fort Benning, Georgia’s infantry training center.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/09/National-Infantry-Museum-Soldier-Center.jpg",
+    "city": "Columbus",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+
+  {
+    "name": "Atlantic Station",
+    "desc": "Atlantic Station is a central hub for shopping, dining and sightseeing within the city.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/07/Atlantic-Station.jpg",
+    "city": "Atlanta",
+    "restaurant": "Yes",
+    "shopping": "Yes",
+    "museum": "No",
+    "cost": "Free",
+    "nature": "No"
+  },
+
+  {
+    "name": "Municipal Market",
+    "desc": "Municipal Market is a bustling market where you can find everything from old books to fresh pastries.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/07/Municipal-Market.jpg",
+    "city": "Atlanta",
+    "restaurant": "Yes",
+    "shopping": "Yes",
+    "museum": "No",
+    "cost": "$",
+    "nature": "No"
+  },
+
+  {
+    "name": "State Farm Arena",
+    "desc": "You might laugh a little at the name “State Farm Arena,” but once you see the awesome, state-of-the-art technology that the sponsorship has afforded, you’ll be singing the State Farm jingle with enthusiasm.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/07/State-Farm-Arena.jpg",
+    "city": "Atlanta",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "Yes",
+    "cost": "$$",
+    "nature": "No"
+  },
+
+  {
+    "name": "Atlanta BeltLine",
+    "desc": "The Atlanta BeltLine is a long series of parks and trails that connects more than 33 miles of greenery.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/07/Atlanta-BeltLine.jpg",
+    "city": "Atlanta",
+    "restaurant": "No",
+    "shopping": "No",
+    "museum": "No",
+    "cost": "Free",
+    "nature": "Yes"
+  },
+  
+  {
+    "name": "Little Five Points",
+    "desc": "Known as the “bohemian center of the south,” Little Five Points is a fun, offbeat neighborhood where trendy fashion boutiques jostle for space with used bookstores and quirky coffee shops.",
+    "img": "https://www.busytourist.com/wp-content/uploads/2020/07/Little-Five-Points.jpg",
+    "city": "Atlanta",
+    "restaurant": "Yes",
+    "shopping": "Yes",
+    "museum": "No",
+    "cost": "$$",
+    "nature": "No"
+  }
+]
+  
