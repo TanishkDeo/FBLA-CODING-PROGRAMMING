@@ -41,14 +41,16 @@ class _SearchScreenState extends State<HomeScreen> {
     });
   }
 
+  // Filters the list by using a "where" condition, MATCHING the array objects
+  // Updates State of the Home Screen
   void filterList() {
-    List<ImageModel> filteredList = images.where((a) {
-      return ((a.city == city || city == "City") &&
-          (a.restaurant == restaurant || restaurant == "Restaurant") &&
-          (a.shopping == shopping || shopping == "Shopping") &&
-          (a.museum == museum || museum == "Museum") &&
-          (a.cost == cost || cost == "Price") &&
-          (a.nature == nature || nature == "Nature"));
+    List<ImageModel> filteredList = images.where((attraction) {
+      return ((attraction.city == city || city == "City") &&
+          (attraction.restaurant == restaurant || restaurant == "Restaurant") &&
+          (attraction.shopping == shopping || shopping == "Shopping") &&
+          (attraction.museum == museum || museum == "Museum") &&
+          (attraction.cost == cost || cost == "Price") &&
+          (attraction.nature == nature || nature == "Nature"));
     }).toList();
     setState(() {
       curr = filteredList;
@@ -63,11 +65,13 @@ class _SearchScreenState extends State<HomeScreen> {
   }
 
   @override
+  // Creates the Widgets for SHOWING the CARDS
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
           title: Text("Georgia Travels"),
         ),
+        // Adds Floating Action Button - Search Capability
         floatingActionButton: FloatingActionButton(
           onPressed: () {
             showDialog(
