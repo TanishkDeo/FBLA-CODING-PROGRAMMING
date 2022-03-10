@@ -7,7 +7,7 @@ A flutter app to recommend attractions for tourists
 - Open using VSCode + Flutter
 - Run in DEBUG mode on Chrome(web)
 
-#Features
+# Features
 - Compatibility
 - Filtering
 - List of Attractions
